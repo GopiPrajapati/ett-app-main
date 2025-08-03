@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "703859549997",
+    "project_id": "yett-69ab1",
+    "storage_bucket": "yett-69ab1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703859549997:android:0d1fcff2efed27b32c95a4",
+        "android_client_info": {
+          "package_name": "com.yett.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWdLJSRzNycuEAMtOZvKTJxWRslb46JvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
